@@ -1,3 +1,3 @@
-console.error (help);
-console.log (hi);
-console.warn (no);
+console.error (help)
+console.log (hi)
+console.warn (no)
